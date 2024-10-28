@@ -4,6 +4,17 @@
 
 The Face Swap App allows users to upload two images and swap the faces between them using deep learning techniques. Built with Streamlit, OpenCV, and the InsightFace library, this application provides a simple interface for face swapping.
 
+## Table of Contents
+
+- [Features](#features)
+- [Requirements](#requirements)
+- [Installation](#installation)
+- [Model](#model)
+- [Usage](#usage)
+- [Example](#example)
+- [Result](#result)
+- [License](#license)
+
 ## Features
 
 - Upload two images (source and target).
@@ -43,6 +54,10 @@ The Face Swap App allows users to upload two images and swap the faces between t
    ```
 
 4. Ensure that you have the InsightFace model files. If you don't have them, the app will automatically download them the first time you run it.
+
+## Model
+
+**InsightFace Model**: [Click to here to download the model file](https://drive.google.com/file/d/190gxPPj8yQX6qL-NAava3XqD4MWT0av_/view?usp=sharing)
 
 ## Usage
 
