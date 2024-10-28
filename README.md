@@ -14,6 +14,7 @@ The Face Swap App allows users to upload two images and swap the faces between t
 - [Example](#example)
 - [Result](#result)
 - [License](#license)
+- [Demo](#demo)
 
 ## Features
 
@@ -108,6 +109,10 @@ The application will display the original images and the resulting images with t
 ## License
 
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
+
+## Demo
+
+[Click to view the demo app](https://shukdevdatta123-insightface-face-swapper.hf.space)
 
 ## Contact
 
