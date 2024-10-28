@@ -91,6 +91,15 @@ The Face Swap App allows users to upload two images and swap the faces between t
 
 The application will display the original images and the resulting images with the swapped faces.
 
+- **Swapped Face 1**:
+
+![Example Image](https://github.com/shukdevtroy/Face-Swap-APP/blob/main/images/swapsource.jpg)
+
+- **Swapped Face 2**:
+
+![Example Image](https://github.com/shukdevtroy/Face-Swap-APP/blob/main/images/swaptarget.jpg)
+
+
 ## Notes
 
 - Make sure the images you upload are clear and well-lit for the best results.
