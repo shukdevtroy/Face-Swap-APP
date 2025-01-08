@@ -121,6 +121,7 @@ For any questions or issues, please contact:
 - **Email**: shukdevdatta@gmail.com
 - **GitHub**: [Click to here to access the Github Profile](https://github.com/shukdevtroy)
 - **WhatsApp**: [Click here to chat](https://wa.me/+8801719296601)
+- **HuggingFace Profile**: [Click to here to access the HuggingFace Profile](https://huggingface.co/shukdevdatta123))
 
 ## Acknowledgements
 
